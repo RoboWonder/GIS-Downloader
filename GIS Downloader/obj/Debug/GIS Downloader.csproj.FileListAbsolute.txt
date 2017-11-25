@@ -1,0 +1,10 @@
+D:\csharp\GIS Downloader\GIS Downloader\bin\Debug\GIS Downloader.exe.config
+D:\csharp\GIS Downloader\GIS Downloader\bin\Debug\GIS Downloader.exe
+D:\csharp\GIS Downloader\GIS Downloader\bin\Debug\GIS Downloader.pdb
+D:\csharp\GIS Downloader\GIS Downloader\obj\Debug\GIS Downloader.csprojResolveAssemblyReference.cache
+D:\csharp\GIS Downloader\GIS Downloader\obj\Debug\GIS_Downloader.Form1.resources
+D:\csharp\GIS Downloader\GIS Downloader\obj\Debug\GIS_Downloader.Properties.Resources.resources
+D:\csharp\GIS Downloader\GIS Downloader\obj\Debug\GIS Downloader.csproj.GenerateResource.Cache
+D:\csharp\GIS Downloader\GIS Downloader\obj\Debug\GIS Downloader.csproj.CoreCompileInputs.cache
+D:\csharp\GIS Downloader\GIS Downloader\obj\Debug\GIS Downloader.exe
+D:\csharp\GIS Downloader\GIS Downloader\obj\Debug\GIS Downloader.pdb
